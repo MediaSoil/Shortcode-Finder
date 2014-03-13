@@ -6,7 +6,7 @@
  * Version: 0.1
  * Author: Media Soil
  * Author URI: http://www.mediasoil.com
- * License: Creative Commons Attribution-ShareAlike (CC BY-SA) License
+ * License: GPLv2
 */
  
 class MS_shortcode
