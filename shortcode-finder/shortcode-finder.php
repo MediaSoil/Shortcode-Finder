@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Shortcode Finder
- * Plugin URI: http://#
+ * Plugin URI: https://github.com/MediaSoil/Shortcode-Finder
  * Description: Displays a list of shortcodes available for use.
  * Version: 0.1
  * Author: Media Soil
